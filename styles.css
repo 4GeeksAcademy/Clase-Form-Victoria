@@ -1,0 +1,17 @@
+div {
+    padding: 5px;
+}
+label {
+    padding-bottom: 5px;
+}
+
+.form-check {
+    margin-top: 10px; 
+}
+.cards{
+    width: fit-content; height: fit-content;
+}
+#exampleFormControlTextarea {
+    height: 150px;
+}
+
